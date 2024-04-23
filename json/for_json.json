@@ -1,0 +1,11 @@
+[
+  {
+    "prenoms": "Lola",
+    "age": 30
+  },
+
+  {
+    "profession": "menuisier",
+    "type": "CDD"
+  }
+]
