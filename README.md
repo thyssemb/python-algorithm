@@ -4,8 +4,6 @@ le but étant de découvrir et de s'approprier la syntaxe de Python</p>
 
 
 <h2> 🚀 &nbsp;installation</h2>
-<p>vous n'avez pas besoin d'installer de dépendance pour exécuter les scripts d'algorithmie</p>
-<br>
 <p>exécuter les script de manipulation de données json (for.py, for2.py, et for3.py)</p>
 <code>cd json</code>
 <br>
