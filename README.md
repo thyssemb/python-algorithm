@@ -6,11 +6,30 @@ le but étant de découvrir et de s'approprier la syntaxe de Python</p>
 <h2> 🚀 &nbsp;installation</h2>
 <p>vous n'avez pas besoin d'installer de dépendance pour exécuter les scripts d'algorithmie</p>
 <br>
-<p>exécuter les script de manipulation de données (for.py, for2.py, et for3.py)</p>
-<code>cd nom du dossier (string, json, algo..)</code>
+<p>exécuter les script de manipulation de données json (for.py, for2.py, et for3.py)</p>
+<code>cd json</code>
 <br>
 <code>pip install -r requirements.txt</code><br>
 <code>python3 nom du fichier.py</code>
+<br>
+<br>
+<br>
+<p>exécuter le script de la calculatrice</p>
+<code>cd calculator</code><br>
+<code>python3 calculator.py</code><br>
+<br>
+<br>
+<br>
+<p>exécuter le script de manipulation de données csv</p>
+<code>cd excel</code><br>
+<code>python3 excel.py</code>
+<br>
+<br>
+<br>
+<p>exécuter le script d'inversement d'une chaîne de caractères</p>
+<code>cd string</code><br>
+<code>python3 reverse.py</code>
+
 </p>
 
 <br>
@@ -21,15 +40,32 @@ le but étant de découvrir et de s'approprier la syntaxe de Python</p>
 <p>the goal was to discover and master Python syntax
 </p>
 
-<h2> 🚀 &nbsp;installation</h2>
-<p>you do not need to install any dependencies to run the algorithm scripts
-</p>
-<br>
-<p>run the data manipulation scripts (for.py, for2.py, and for3.py)</p>
-<code>cd folder (string, json, algo..)</code>
+<h2> 🚀 &nbsp;install</h2>
+
+<p>run the json manipulate data files (for.py, for2.py, et for3.py)</p>
+<code>cd json</code>
 <br>
 <code>pip install -r requirements.txt</code><br>
-<code>python3 name of file.py</code>
+<code>python3 name of the file.py</code>
+<br>
+<br>
+<br>
+<p>run the calculator script</p>
+<code>cd calculator</code><br>
+<code>python3 calculator.py</code><br>
+<br>
+<br>
+<br>
+<p>run the csv manipulate data file</p>
+<code>cd excel</code><br>
+<code>python3 excel.py</code>
+<br>
+<br>
+<br>
+<p>run the reverse string script</p>
+<code>cd string</code><br>
+<code>python3 reverse.py</code>
+
 </p>
 
 
