@@ -6,7 +6,7 @@
 <p>vous n'avez pas besoin d'installer de dépendance pour exécuter les scripts d'algorithmie</p>
 <br>
 <p>exécuter les script de manipulation de données (for.py, for2.py, et for3.py)</p>
-<code>cd json</code>
+<code>cd nom du dossier (string, json, algo..)</code>
 <br>
 <code>pip install -r requirements.txt</code><br>
 <code>python3 nom du fichier.py</code>
@@ -22,7 +22,7 @@
 </p>
 <br>
 <p>run the data manipulation scripts (for.py, for2.py, and for3.py)</p>
-<code>cd json</code>
+<code>cd folder (string, json, algo..)</code>
 <br>
 <code>pip install -r requirements.txt</code><br>
 <code>python3 name of file.py</code>
