@@ -1,5 +1,6 @@
 <center><h1>☁️ algorithme en python</h1></center>
-<p>ce dépot contient plusieurs algorithmes: tri à bulles, tri par insertion, tri QuickSort, mais aussi de la manipulation de données .CSV et .JSON</p>
+<p>ce dépot contient plusieurs algorithmes: tri à bulles, tri par insertion, tri QuickSort, mais aussi de la manipulation de données .CSV et .JSON, et une calculatrice<br>
+le but étant de découvrir et de s'approprier la syntaxe de Python</p>
 
 
 <h2> 🚀 &nbsp;installation</h2>
@@ -15,7 +16,10 @@
 <br>
 <br>
 <center><h1>☁️ python algorithms</h1></center>
-<p>this repository contains several algorithms: bubble sort, insertion sort, QuickSort sort, but also manipulation of .CSV and .JSON data</p>
+<p>this repository contains several algorithms: bubble sort, insertion sort, QuickSort sort, but also manipulation of .CSV and .JSON data, and a calculator
+</p><br>
+<p>the goal was to discover and master Python syntax
+</p>
 
 <h2> 🚀 &nbsp;installation</h2>
 <p>you do not need to install any dependencies to run the algorithm scripts
