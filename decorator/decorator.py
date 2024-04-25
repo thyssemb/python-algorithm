@@ -1,6 +1,6 @@
 user = "lola"
 # we declare a value
-
+# if u change the value, this script will print "action refusée" // "action refused"
 def decorator(func):
     def accept_user():
          if user != "lola":
